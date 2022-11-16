@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 4 2022
+Created on Wed Nov 16 2022
 
-@author: stephen cornford
+@author: Ernest Ankomah
 
 CA fire model based on Charbonneau 2017
 'Natural Complexity, a modeling handbook', chap 6
